@@ -1,0 +1,10 @@
+C:\Users\Oussama\Desktop\calculatrice\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\Oussama\Desktop\calculatrice\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\Oussama\Desktop\calculatrice\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\Oussama\Desktop\calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+C:\Users\Oussama\Desktop\calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.FormCalculatrice.resources
+C:\Users\Oussama\Desktop\calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\Oussama\Desktop\calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+C:\Users\Oussama\Desktop\calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Oussama\Desktop\calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\Oussama\Desktop\calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
